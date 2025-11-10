@@ -1,0 +1,43 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Unit test / coverage reports
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+coverage.xml
+htmlcov/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# SQLite or other local databases
+*.db
+*.sqlite3
+
+# Editor & system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Backup files
+*.bak
+*.swp
+*.tmp
+*.orig
